@@ -1,6 +1,6 @@
 # Pipeline de Ciência de Dados para Previsão de Desempenho Académico
 
-Este projeto foi desenvolvido no âmbito da unidade curricular de Elementos de Inteligência Artificial e Ciência de Dados (EIACD).
+Projeto de ciência de dados que constrói um pipeline completo para prever aprovação ou reprovação de estudantes usando modelos de machine learning supervisionados.
 
 ## Visão Geral do Projeto
 
@@ -66,10 +66,12 @@ Clique em "Install" > Aguarde a conclusão (> barra de progresso azul).
 Em seguida, siga os passos abaixo para executar o projeto localmente:
 ### 1. Clonar o repositório
 ```
-git clone https://github.com/aldeas19/datascproj.git
+git clone https://github.com/acaroline-ss/StudentPerformanceML.git
+
 ```
 ```
-cd datascproj
+cd StudentPerformanceML
+
 ```
 
 ### 2. Criar um ambiente virtual (opcional, mas recomendando)
@@ -118,4 +120,5 @@ streamlit run streamlit_app.py
 1. UC Irvine Machine Learning Repository. Student Performance,
 https://archive.ics.uci.edu/dataset/320/student+performance
 2. Cortez, P., & Silva, A. M. G. (2008). “Using data mining to predict secondary school student performance”. https://repositorium.sdum.uminho.pt/bitstream/1822/8024/1/student.pdf
+
 
