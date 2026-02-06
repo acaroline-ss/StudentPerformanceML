@@ -58,7 +58,7 @@ Este projeto utiliza várias bibliotecas do ecossistema de ciência de dados em 
 Na primeira tela:
 
 
-- ✅ Marque a opção "Add python.exe to PATH" (CRUCIAL para rodar Python no CMD).
+- ✅ Marque a opção "Add python.exe to PATH".
 - ✅ Recomendado: Selecione "Install Now" (instalação padrão para usuários iniciantes).
 
 Clique em "Install" > Aguarde a conclusão (> barra de progresso azul).
@@ -120,5 +120,6 @@ streamlit run streamlit_app.py
 1. UC Irvine Machine Learning Repository. Student Performance,
 https://archive.ics.uci.edu/dataset/320/student+performance
 2. Cortez, P., & Silva, A. M. G. (2008). “Using data mining to predict secondary school student performance”. https://repositorium.sdum.uminho.pt/bitstream/1822/8024/1/student.pdf
+
 
 
