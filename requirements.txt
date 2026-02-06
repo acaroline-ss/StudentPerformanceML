@@ -1,0 +1,22 @@
+# Core libraries
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+pyyaml
+
+# Data cleaning and EDA
+missingno
+
+# Jupyter notebook processing
+nbformat
+
+# Optional (only if used)
+jupyter
+scikit-learn
+imbalanced-learn
+notebook
+streamlit
+pandas
+joblib
